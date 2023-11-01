@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #3498db; /* Change to blue */
+    background-color: #87ceeb; /* Change to sky blue */
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -20,7 +20,7 @@ section {
 }
 
 h2 {
-    background-color: #3498db; /* Change to blue */
+    background-color: #ff69b4; /* Change to pink */
     color: #fff;
     padding: 10px;
 }
@@ -35,7 +35,7 @@ ul li {
 }
 
 a {
-    color: #3498db;
+    color: #87ceeb; /* Change to sky blue */
     text-decoration: none;
 }
 
