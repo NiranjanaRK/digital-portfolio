@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #DE3163;
+    background-color: #3498db; /* Change to blue */
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -20,7 +20,7 @@ section {
 }
 
 h2 {
-    background-color: #130b5f;
+    background-color: #2ecc71; /* Change to green */
     color: #fff;
     padding: 10px;
 }
